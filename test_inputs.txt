@@ -1,19 +1,193 @@
+C:\Users\vallu\week1-personal-info>python personal_info.py
+========================================
+   PERSONAL INFORMATION MANAGER
+========================================
+Welcome to my first Python project!
 
-Test Case 1: Normal input
-Favorite food: Pizza
-Favorite color: Blue
-Expected: Both values display correctly.
+Please enter your preferences:
+----------------------------------------
+What is your favorite food? pizza
+What is your favorite color? blue
 
-Test Case 2: Empty food
-Favorite food:
-Expected: Program asks for a valid food.
+========================================
+       YOUR PERSONAL INFORMATION
+========================================
+Name           : Keerthana
+Age            : 22 years (264 months old)
+City           : Hyderabad
+Hobby          : Listening to music
+----------------------------------------
+Favorite Food  : Pizza
+Favorite Color : Blue
 
-Test Case 3: Empty color
-Favorite food: Pizza
-Favorite color:
-Expected: Program asks for a valid color.
+========================================
+Thank you for using this program!
+Have a great day!
+========================================
 
+C:\Users\vallu\week1-personal-info>python personal_info.py
+========================================
+   PERSONAL INFORMATION MANAGER
+========================================
+Welcome to my first Python project!
 
-Test Case 4: Age calculation
-Age: 22
-Expected: Age in months displays as 264.
+Please enter your preferences:
+----------------------------------------
+What is your favorite food? 
+Input cannot be empty. Please try again.
+What is your favorite food? pizza
+What is your favorite color? 
+Input cannot be empty. Please try again.
+What is your favorite color? blue
+
+========================================
+       YOUR PERSONAL INFORMATION
+========================================
+Name           : Keerthana
+Age            : 22 years (264 months old)
+City           : Hyderabad
+Hobby          : Listening to music
+----------------------------------------
+Favorite Food  : Pizza
+Favorite Color : Blue
+
+========================================
+Thank you for using this program!
+Have a great day!
+========================================
+
+C:\Users\vallu\week1-personal-info>python personal_info.py
+========================================
+   PERSONAL INFORMATION MANAGER
+========================================
+Welcome to my first Python project!
+
+Please enter your preferences:
+----------------------------------------
+What is your favorite food?   pizza   
+What is your favorite color?     blue     
+
+========================================
+       YOUR PERSONAL INFORMATION
+========================================
+Name           : Keerthana
+Age            : 22 years (264 months old)
+City           : Hyderabad
+Hobby          : Listening to music
+----------------------------------------
+Favorite Food  : Pizza
+Favorite Color : Blue
+
+========================================
+Thank you for using this program!
+Have a great day!
+========================================
+
+C:\Users\vallu\week1-personal-info>python personal_info.py
+========================================
+   PERSONAL INFORMATION MANAGER
+========================================
+Welcome to my first Python project!
+
+Please enter your preferences:
+----------------------------------------
+What is your favorite food? PIZZA
+What is your favorite color? BLUE
+
+========================================
+       YOUR PERSONAL INFORMATION
+========================================
+Name           : Keerthana
+Age            : 22 years (264 months old)
+City           : Hyderabad
+Hobby          : Listening to music
+----------------------------------------
+Favorite Food  : Pizza
+Favorite Color : Blue
+
+========================================
+Thank you for using this program!
+Have a great day!
+========================================
+
+C:\Users\vallu\week1-personal-info>python personal_info.py
+========================================
+   PERSONAL INFORMATION MANAGER
+========================================
+Welcome to my first Python project!
+
+Please enter your preferences:
+----------------------------------------
+What is your favorite food? Chicken Biryani With Extra Spices And Vegetables
+What is your favorite color? blue
+
+========================================
+       YOUR PERSONAL INFORMATION
+========================================
+Name           : Keerthana
+Age            : 22 years (264 months old)
+City           : Hyderabad
+Hobby          : Listening to music
+----------------------------------------
+Favorite Food  : Chicken Biryani With Extra Spices And Vegetables
+Favorite Color : Blue
+
+========================================
+Thank you for using this program!
+Have a great day!
+========================================
+
+C:\Users\vallu\week1-personal-info>python personal_info.py
+========================================
+   PERSONAL INFORMATION MANAGER
+========================================
+Welcome to my first Python project!
+
+Please enter your preferences:
+----------------------------------------
+What is your favorite food? pizza
+What is your favorite color? blue
+
+========================================
+       YOUR PERSONAL INFORMATION
+========================================
+Name           : Keerthana
+Age            : 23 years (276 months old)
+City           : Hyderabad
+Hobby          : Listening to music
+----------------------------------------
+Favorite Food  : Pizza
+Favorite Color : Blue
+
+========================================
+Thank you for using this program!
+Have a great day!
+========================================
+
+C:\Users\vallu\week1-personal-info>python personal_info.py
+========================================
+   PERSONAL INFORMATION MANAGER
+========================================
+Welcome to my first Python project!
+
+Please enter your preferences:
+----------------------------------------
+What is your favorite food? 12345
+What is your favorite color? 12345678
+
+========================================
+       YOUR PERSONAL INFORMATION
+========================================
+Name           : Keerthana
+Age            : 23 years (276 months old)
+City           : Hyderabad
+Hobby          : Listening to music
+----------------------------------------
+Favorite Food  : 12345
+Favorite Color : 12345678
+
+========================================
+Thank you for using this program!
+Have a great day!
+========================================
+
