@@ -1,0 +1,19 @@
+
+Test Case 1: Normal input
+Favorite food: Pizza
+Favorite color: Blue
+Expected: Both values display correctly.
+
+Test Case 2: Empty food
+Favorite food:
+Expected: Program asks for a valid food.
+
+Test Case 3: Empty color
+Favorite food: Pizza
+Favorite color:
+Expected: Program asks for a valid color.
+
+
+Test Case 4: Age calculation
+Age: 22
+Expected: Age in months displays as 264.
